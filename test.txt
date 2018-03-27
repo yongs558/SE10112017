@@ -1,2 +1,7 @@
 Hello
 You are currently working on Portfolio6
+
+--Adding instruction to this file--
+1. Version control is good
+2. Write message for each commit
+. Dont forget to configure your name and email
